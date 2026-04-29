@@ -1,4 +1,21 @@
-# OrbitAIPublic
-Orbit AI is an all-in-one intelligent assistant designed to streamline tasks and enhance productivity by integrating advanced AI capabilities into a single platform. Inspired by systems like Jarvis, it can assist with browsing, automation, and real-time interaction on your device. While free to access, full functionality may require subscription-based AI services. Orbit AI aims to simplify workflows by acting as a smart digital operator, bringing multiple AI-powered tools together in one seamless experience.
 
- # Download Here https://drive.google.com/file/d/136TVCfSagSf4VdpChBCV8tQTk7lkI3Nq/view
+
+# Orbit AI (Public Beta)
+
+Orbit AI is an integrated intelligent assistant designed to streamline everyday digital tasks through a unified AI-powered interface. It brings together tools for automation, information access, and real-time interaction, aiming to reduce friction between users and their digital workflows.
+
+Inspired by next-generation assistant systems, Orbit AI focuses on simplicity and modular capability: instead of switching between multiple apps and services, users interact with a single environment that coordinates tasks efficiently.
+
+Key capabilities may include:
+
+* Task automation and workflow support
+* AI-assisted browsing and information retrieval
+* Real-time interaction features (depending on connected services)
+* Extensible integration with external AI APIs
+
+Orbit AI is intended as a flexible platform, and some advanced features may require third-party AI services or API access depending on user configuration.
+
+## Access
+
+Download and installation instructions are provided through the official distribution channel:
+[https://drive.google.com/file/d/136TVCfSagSf4VdpChBCV8tQTk7lkI3Nq/view](https://drive.google.com/file/d/136TVCfSagSf4VdpChBCV8tQTk7lkI3Nq/view)
